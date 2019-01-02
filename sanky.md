@@ -24,7 +24,7 @@ Sankey图表直观地强调了系统内的主要传输或流程。它们有助�
 
 科罗拉多河流域分流图
 
-![科罗拉多河流域分流图](anky/Sankey_Diagram_of_Colorado_River_Water_Use.jpg)
+![科罗拉多河流域分流图](sanky/Sankey_Diagram_of_Colorado_River_Water_Use.jpg)
 
 ### 实现
 
