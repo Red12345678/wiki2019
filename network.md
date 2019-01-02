@@ -48,7 +48,7 @@ GEXF文件规范 https://gephi.org/gexf/format/
 
 [Gephi](https://gephi.org/)
 
-[[SOCNETV](https://socnetv.org/)
+[SOCNETV](https://socnetv.org/)
 
 ### 参考资料
 
