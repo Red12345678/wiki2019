@@ -58,11 +58,11 @@ Power BI
 
 原始数据
 
-![原始数据](sanky\data1.jpg)
+![原始数据](sanky/data1.jpg)
 
 桑基图适配后数据
 
-![桑基图适配后数据](sanky\data2.png)
+![桑基图适配后数据](sanky/data2.png)
 
 ### 参考资料
 
