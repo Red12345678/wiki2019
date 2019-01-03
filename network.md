@@ -5,9 +5,16 @@
 ### 典型布局 Layout
 
 Force Atlas 2
+
 Fruchterman-Reingold
+
 OpenOrd
+
 YifanHu Multilevel
+
+Collapsible Force Layout
+
+Force-Directed
 
 ### 规范
 
